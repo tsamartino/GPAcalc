@@ -3,7 +3,8 @@
   "description": "Polymer web app for calculating student GPA&#39;s from excel or csv gradebook exports from each course.",
   "main": "index.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^2.0.0"
+    "polymer": "Polymer/polymer#^2.0.0",
+    "vaadin-material-theme": "vaadin/vaadin-material-theme#^0.3.0"
   },
   "devDependencies": {
     "web-component-tester": "Polymer/web-component-tester#^6.0.0",
