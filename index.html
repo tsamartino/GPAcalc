@@ -15,7 +15,9 @@
 
     <script src="/bower_components/webcomponentsjs/webcomponents-loader.js"></script>
 
-    <vaadin-upload max-files="25" accept=".csv,.xls,.xlsx"></vaadin-upload>
+    <vaadin-upload max-files="25" accept=".csv,.xls,.xlsx">
+      <span slot="drop-label">Up to 25&nbsp;.csv, .xls, or .xlsx&nbsp;files for analysis</span>
+    </vaadin-upload>
 
   </head>
   <body>
