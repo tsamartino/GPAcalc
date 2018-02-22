@@ -1,0 +1,7 @@
+{
+  "name": "GPAcalc",
+  "short_name": "GPAcalc",
+  "description": "Polymer web app for calculating student GPA&#39;s from excel or csv gradebook exports from each course.",
+  "start_url": "/",
+  "display": "standalone"
+}
