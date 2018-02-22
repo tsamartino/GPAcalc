@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # \<GPAcalc\>
 
 Polymer web app for calculating student GPA&#39;s from excel or csv gradebook exports from each course.
@@ -31,3 +32,5 @@ $ polymer test
 ```
 
 Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
+=======
+>>>>>>> 393960513b33044a1686930084ac0e8c4f28d9de
